@@ -1,0 +1,6 @@
+#####################################################################
+# Input: inputs/single_page_eviction_to_disk.txt
+# Left side: expected (outputs/tlbsim-l2/single_page_eviction_to_disk.out)
+# Right side: actual (reports/single_page_eviction_to_disk.out)
+#####################################################################
+# Test single_page_eviction_to_disk passed
